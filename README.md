@@ -6,3 +6,18 @@ Passionate about a wide range of topics such as music production, video game dev
 
 ## WHAT DO I DO FOR A LIVING ?
 
+### 2024-??? | ApprenticeShip @Movida Production 
+
+### 2023 | Internship @MonStock
+
+### 2022 | Internship @RatelStudio
+
+## WHAT DO I DO FOR FUN ?
+
+### Demoscene 
+
+### SoundMaking
+
+
+
+
