@@ -46,6 +46,16 @@ Additionally, I implemented various gameplay systems and performed bug fixes.
 
 ### Demoscene 
 
+> The demoscene is a global computer art subculture focused on creating real-time audiovisual presentations, known as demos, that showcase programming, artistic, and musical skills.
+
+#### Revision 2024 
+
+> During this edition of Revision, we released a track called [Pixels and Paradise](https://soundcloud.com/user-519993791/pixels-and-paradise?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) with [Xtrium](https://github.com/xtrium-lnx).
+
+#### Evoke 2023
+
+
+
 ### SoundMaking
 
 
