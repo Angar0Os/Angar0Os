@@ -8,6 +8,8 @@ Passionate about a wide range of topics such as music production, video game dev
 
 ### 2024-??? | ApprenticeShip @Movida Production 
 
+<img src="images/logo_movida.png" width=500px>
+
 ### 2023 | Internship @MonStock
 
 ### 2022 | Internship @RatelStudio
