@@ -54,10 +54,25 @@ Additionally, I implemented various gameplay systems and performed bug fixes.
 
 #### Evoke 2023
 
+> Evoke 2023 was the first demoparty we participated in.  
+We released our first demo, called "Achievement Unlocked," with [Xugon](https://github.com/vmalvoisin).
 
+> This demo was produced in two days during Evoke 2023.  
+We used C++ with OpenGL for context rendering and GLSL for shader coding.
+
+> You can find the demo track on SoundCloud [HERE](https://soundcloud.com/user-519993791/achievement-unlocked?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing).  
+You can also find the demo release [HERE](https://github.com/FreshBloodDemoscene/AchivementUnlocked-Evoke2023/releases/tag/V1.0.0).
+
+> We won the Newcomer Award at this first edition.  
+The demo was ranked 8th overall.
 
 ### SoundMaking
 
+> These are all the tracks that are available in my [SoundCloud](https://soundcloud.com/user-519993791/).
+
+> - [Celeste](https://soundcloud.com/user-519993791/celeste?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+> - [Pixels and Paradise](https://soundcloud.com/user-519993791/pixels-and-paradise?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+> - [Achievement Unlocked](https://soundcloud.com/user-519993791/achievement-unlocked?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 
 
