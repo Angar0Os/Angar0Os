@@ -17,7 +17,7 @@ Additionally, I need to learn programming languages such as Go and Python in ord
 
 <img src="images/logo_ratel.jpg" width=200px> 
 
-Ratel Studio is an independent game development studio based in Bordeaux.  
+> Ratel Studio is an independent game development studio based in Bordeaux.  
 
 <img src="images/logo_toria.png" width=200px>
 
@@ -34,9 +34,13 @@ Additionally, I implemented various gameplay systems and performed bug fixes.
 
 <img src="images/logo_ynov.png" width=200px>
 
+> The Video Game Master's program at Ynov Bordeaux is designed to prepare students for careers in the dynamic and competitive gaming industry. Combining technical expertise, creativity, and project management, the program covers key aspects of game development
+
 ### 2021 - 2024 | La Horde
 
 <img src="images/logo_la_horde.png" width=200px>
+
+>La Horde is a cutting-edge school located in Bordeaux, specializing in game design and development. It offers an innovative and immersive educational experience, focusing on project-based learning and hands-on collaboration.
 
 ## WHAT DO I DO FOR FUN ?
 
