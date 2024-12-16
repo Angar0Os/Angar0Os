@@ -6,7 +6,7 @@ Passionate about a wide range of topics such as music production, video game dev
 
 ## WHAT DO I DO FOR A LIVING ?
 
-### 2024-??? | ApprenticeShip @Movida Production 
+### 2024 - ??? | ApprenticeShip @Movida Production 
 
 <img src="images/logo_movida.png" width=500px>
 
@@ -18,11 +18,11 @@ Passionate about a wide range of topics such as music production, video game dev
 
 ## Studies
 
-### 2024-2026 | Ynov Campus 
+### 2024 - 2026 | Ynov Campus 
 
 <img src="images/logo_ynov.png" width=200px>
 
-### 2021-2024 | La Horde
+### 2021 - 2024 | La Horde
 
 <img src="images/logo_la_horde.png" width=200px>
 
