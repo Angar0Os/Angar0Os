@@ -5,7 +5,7 @@ Passionate about a wide range of topics such as music production, video game dev
 
 ## WHAT DO I DO FOR A LIVING ?
 
-### 2024 - ??? | ApprenticeShip @Movida Production 
+### 2024 - 2026 | ApprenticeShip @Movida Production 
 
 <img src="images/logo_movida.png" width=500px>
 
